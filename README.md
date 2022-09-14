@@ -19,7 +19,7 @@ Disini saya menggunakan softwere rufus, bisa di download [disini](https://rufus.
 - ## Klik menu SELECT kemudian pilih iso linux yang akan di bootable
 
 ![rufus](/rufus3.png)
-> disini saya menggunakan iso debian, bisa di download [disini (debian 11)](https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/11.4.0-live+nonfree/amd64/iso-hybrid/) silahkan pilih DE sesuai selera (GNOME, XFCE, KDE dll)
+> disini saya menggunakan iso debian, bisa di download [disini (debian 11)](https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/11.5.0-live+nonfree/amd64/iso-hybrid/) silahkan pilih DE sesuai selera (GNOME, XFCE, KDE dll)
 
 - ## Setelah itu silahkan pilih skema partisi MBR atau GPT ( bios / UEFI )
 
